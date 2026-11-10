@@ -56,6 +56,7 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 | **Amigos e guildas** | Amigos, conversa privada e guildas de seis jogadores com quatro cargos e criaturas de apoio. |
 | **Recuperação** | Três restauros instantâneos diários por conta e ajuda manual para sua criatura voltar à aventura. |
 | **Progresso ao retornar** | O servidor calcula o avanço da exploração durante sua ausência, dentro dos limites do jogo. |
+| **Avisos visuais** | Bolinhas vermelhas orientam até convites, espólios, invocações e aprimoramentos. Os seletores têm busca, filtros e prévias das cartas. |
 
 <p align="center"><strong>37 espécies · 19 cartas · 10 regiões</strong><br /><sub>Conteúdo atual da alfa, sujeito a evolução durante o desenvolvimento.</sub></p>
 
@@ -81,6 +82,10 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 **Ícones de recuperação, cartas, materiais e guildas.**
 
 <img src="./assets/screenshots/icones.png" width="1150" alt="Prévia dos ícones em pixel art: poções, bandagens, efeitos de cartas, cargos de guilda e materiais com suas cores." />
+
+**Escolha suas cartas com busca, filtros e avisos por cópia.**
+
+<p align="center"><img src="./assets/screenshots/seletor-cartas.png" width="390" alt="Seletor de cartas no celular, com ilustrações, elementos, estrelas, descrições e bolinhas vermelhas indicando novas oportunidades de aprimoramento." /></p>
 
 ## Atualizações do aplicativo
 
