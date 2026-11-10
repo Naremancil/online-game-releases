@@ -51,7 +51,7 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 | :--- | :--- |
 | **Exploração** | Regiões elementais, encontros automáticos e desafios contra bosses para abrir novos caminhos. |
 | **Criaturas** | Níveis, características individuais, treinamento, invocações e evoluções. |
-| **Cartas e criação** | Receitas, essências de boss, materiais elementais e cartas aprimoráveis até cinco estrelas por cópia. |
+| **Cartas e criação** | Cartas com fundos elementais e receitas de acordo com sua função, além de essências de boss e aprimoramento até cinco estrelas por cópia. |
 | **Almanaque** | Espécies reveladas conforme você encontra e desenvolve suas criaturas. |
 | **Amigos e guildas** | Amigos, conversa privada e guildas de seis jogadores com quatro cargos e criaturas de apoio. |
 | **Recuperação** | Três restauros instantâneos diários por conta e ajuda manual para sua criatura voltar à aventura. |
@@ -77,6 +77,10 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 </table>
 
 <p align="center"><sub>Capturas da interface real em uma conta de demonstração. O conteúdo pode mudar nas próximas versões.</sub></p>
+
+**Ícones de recuperação, cartas, materiais e guildas.**
+
+<img src="./assets/screenshots/icones.png" width="1150" alt="Prévia dos ícones em pixel art: poções, bandagens, efeitos de cartas, cargos de guilda e materiais com suas cores." />
 
 ## Atualizações do aplicativo
 
