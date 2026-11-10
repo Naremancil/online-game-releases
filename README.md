@@ -51,9 +51,10 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 | :--- | :--- |
 | **Exploração** | Regiões elementais, encontros automáticos e desafios contra bosses para abrir novos caminhos. |
 | **Criaturas** | Níveis, características individuais, treinamento, invocações e evoluções. |
-| **Cartas e criação** | Materiais obtidos na exploração, receitas e cartas para montar seu deck. |
+| **Cartas e criação** | Receitas, essências de boss, materiais elementais e cartas aprimoráveis até cinco estrelas por cópia. |
 | **Almanaque** | Espécies reveladas conforme você encontra e desenvolve suas criaturas. |
-| **Amigos e guildas** | Lista de amigos, presença, conversa privada e participação em guildas. |
+| **Amigos e guildas** | Amigos, conversa privada e guildas de seis jogadores com quatro cargos e criaturas de apoio. |
+| **Recuperação** | Três restauros instantâneos diários por conta e ajuda manual para sua criatura voltar à aventura. |
 | **Progresso ao retornar** | O servidor calcula o avanço da exploração durante sua ausência, dentro dos limites do jogo. |
 
 <p align="center"><strong>37 espécies · 19 cartas · 10 regiões</strong><br /><sub>Conteúdo atual da alfa, sujeito a evolução durante o desenvolvimento.</sub></p>
@@ -82,6 +83,7 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 Após a autorização inicial, o Android consulta novas versões **aproximadamente a cada hora** e tenta instalar a atualização disponível. O sistema pode pedir confirmação e ajustar o horário da verificação conforme as condições do aparelho.
 
 Você também pode abrir **Atualizações do aplicativo** para verificar manualmente ou baixar o APK pela [página de versões](https://github.com/Naremancil/online-game-releases/releases).
+Os avisos de encontros difíceis e chamados de aventura podem ser ativados em **Minha conta → Opções**.
 
 ## Dúvidas rápidas
 
