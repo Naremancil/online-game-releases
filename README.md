@@ -38,7 +38,7 @@
 
 1. Abra a [última versão](https://github.com/Naremancil/online-game-releases/releases/latest) e baixe o arquivo **Jogo-Idle-….apk**.
 2. Abra o arquivo baixado e, se solicitado, permita a instalação de aplicativos por esse navegador ou gerenciador de arquivos.
-3. Instale e abra **Jogo Idle**, o nome exibido atualmente no celular.
+3. Instale e abra **Criaturas**.
 4. Entre com sua conta aprovada. Em **Atualizações do aplicativo**, autorize o aplicativo a instalar as próximas versões.
 
 Nas próximas instalações, use o APK deste repositório sobre a versão já instalada. Não é necessário desinstalar o aplicativo.
@@ -57,6 +57,7 @@ Escolha sua criatura, prepare o deck e decida para onde explorar. Os encontros a
 | **Recuperação** | Três restauros instantâneos diários por conta e ajuda manual para sua criatura voltar à aventura. |
 | **Progresso ao retornar** | O servidor calcula o avanço da exploração durante sua ausência, dentro dos limites do jogo. |
 | **Avisos visuais** | Bolinhas vermelhas orientam até convites, espólios, invocações e aprimoramentos. Os seletores de cartas e mapas têm busca e filtros, sem abrir o teclado automaticamente. |
+| **Interface** | Textos e botões adaptados ao celular e computador, cartas equipadas com seleção simplificada e acesso direto à contribuição e aos espólios da guilda. |
 
 <p align="center"><strong>37 espécies · 19 cartas · 10 regiões</strong><br /><sub>Conteúdo atual da alfa, sujeito a evolução durante o desenvolvimento.</sub></p>
 
